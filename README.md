@@ -1,59 +1,146 @@
-# Portfolio Website
+# 🚀 Shivansh Mishra - Portfolio Website
 
-This is a modern portfolio website built with React, TypeScript, and Tailwind CSS.
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</div>
 
-## How to edit this code
+<div align="center">
+  <h3>🌟 A modern, responsive portfolio showcasing full-stack development projects and AI/ML innovations</h3>
+  
+  **[🔗 Live Demo](https://shivanshknp.vercel.app/)**
+</div>
 
-**Local Development**
+---
 
-Clone this repository and work locally using your preferred IDE. Push changes to update the project.
+## ✨ Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- 🎨 **Modern Design** - Clean, professional UI with smooth animations
+- 📱 **Fully Responsive** - Optimized for all devices and screen sizes
+- ⚡ **Fast Performance** - Built with Vite for lightning-fast development and builds
+- 🎭 **Interactive Animations** - GSAP-powered smooth transitions and scroll effects
+- 📧 **Contact Form** - Functional contact form with EmailJS integration
+- 🌙 **Glass Morphism** - Modern glass-card design elements
+- 🎯 **SEO Optimized** - Proper meta tags and semantic HTML structure
 
-Follow these steps:
+## 🛠️ Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Frontend
+- **React 18** - Modern React with hooks and functional components
+- **TypeScript** - Type-safe development experience
+- **Tailwind CSS** - Utility-first CSS framework
+- **GSAP** - Professional-grade animation library
+- **Lucide React** - Beautiful, customizable icons
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### Build Tools
+- **Vite** - Next-generation frontend tooling
+- **ESLint** - Code linting and formatting
+- **PostCSS** - CSS processing and optimization
 
-# Step 3: Install the necessary dependencies.
-npm i
+### Deployment
+- **Vercel** - Seamless deployment and hosting
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+## 🚀 Quick Start
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn package manager
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/portfolio-website.git
+   cd portfolio-website
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open your browser**
+   ```
+   http://localhost:8080
+   ```
+
+### Build for Production
+
+```bash
+npm run build
+npm run preview
 ```
 
-**Edit a file directly in GitHub**
+## 📁 Project Structure
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```
+src/
+├── components/          # React components
+│   ├── About.tsx       # About section
+│   ├── Contact.tsx     # Contact form
+│   ├── Education.tsx   # Education timeline
+│   ├── Hero.tsx        # Landing section
+│   ├── Navigation.tsx  # Navigation bar
+│   ├── Projects.tsx    # Projects showcase
+│   ├── Skills.tsx      # Skills section
+│   └── ui/            # Reusable UI components
+├── hooks/             # Custom React hooks
+├── lib/               # Utility functions
+├── pages/             # Page components
+└── index.css          # Global styles
+```
 
-**Use GitHub Codespaces**
+## 🎨 Key Sections
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- **Hero** - Eye-catching introduction with animated elements
+- **About** - Professional background and expertise
+- **Skills** - Technical skills with interactive displays
+- **Projects** - Featured projects with live demos and source code
+- **Education** - Academic background and achievements
+- **Contact** - Functional contact form with validation
 
-## What technologies are used for this project?
+## 📧 Contact Form Setup
 
-This project is built with:
+To enable the contact form functionality:
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+1. Create an account at [EmailJS](https://www.emailjs.com/)
+2. Set up your email service and template
+3. Add your EmailJS credentials to the Contact component
 
-## How can I deploy this project?
+## 🌐 Deployment
 
-Deploy your project using your preferred hosting service such as Vercel, Netlify, or GitHub Pages.
+This project is deployed on Vercel. To deploy your own version:
 
-## Custom Domain
+1. Fork this repository
+2. Connect your GitHub account to Vercel
+3. Import the project and deploy
+4. Your site will be live at `your-project.vercel.app`
 
-You can connect a custom domain to your deployed project. Purchase your domain from any domain provider and configure it according to your hosting service's documentation.
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](../../issues).
+
+## 📞 Contact
+
+- **Portfolio**: [shivanshknp.vercel.app](https://shivanshknp.vercel.app/)
+- **Email**: your.email@example.com
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+
+---
+
+<div align="center">
+  <p>Made with ❤️ by Shivansh Mishra</p>
+  <p>⭐ Star this repo if you found it helpful!</p>
+</div>
