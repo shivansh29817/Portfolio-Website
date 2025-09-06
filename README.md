@@ -10,8 +10,10 @@
 <div align="center">
   <h3>🌟 A modern, responsive portfolio showcasing full-stack development projects and AI/ML innovations</h3>
   
-  **[🔗 Live Demo](https://shivanshknp.vercel.app/)**
+  **[🔗 Live Link](https://shivanshknp.vercel.app/)**
 </div>
+<img width="1904" height="909" alt="{82D5FDB7-54D4-4071-B5CC-2568CC866DB3}" src="https://github.com/user-attachments/assets/395e374d-d2be-483e-8f5f-2d15e45fe346" />
+
 
 ---
 
